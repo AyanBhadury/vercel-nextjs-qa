@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <div className="container mx-auto p-4">
-        <h1 className="text-2xl font-bold mb-4">Vercel Exercise</h1>
+        <h1 className="text-2xl font-bold mb-4">Vercel Exercise - Ayan Bhadury</h1>
 
         <section className="mb-6">
           <h2 className="text-l font-semibold mb-2">1. From this list, rank your 5 most favourite and 5 least favourite support tasks. Provide a
